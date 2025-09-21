@@ -1,0 +1,4 @@
+SQLAlchemy>=2.0
+TABulate>=0.9
+click>=8.1
+python-dateutil>=2.8
